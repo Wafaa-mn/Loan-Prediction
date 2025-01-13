@@ -1,0 +1,32 @@
+Loan Prediction Model
+This project is part of a course I completed on Analytics Vidhya, where I learned how to predict loan approvals using machine learning techniques. The dataset contains customer details, and the goal is to predict whether a loan application will be approved (Y) or not (N).
+
+Current Progress:
+1.Achieved 80% accuracy using models like:
+    Logistic Regression
+    Decision Tree
+    Random Forest
+    XGBoost
+2.Stratified K-Fold Cross-Validation was used for better performance evaluation.
+
+Next Steps I plan to work on is improving Model Accuracy.
+
+
+How to Run the Project:
+1.Clone this repository.
+2.Make sure the following .csv files are available:
+    cleaned_train_data.csv – The cleaned training dataset.
+    cleaned_test_data.csv – The cleaned test dataset.
+    testdata.csv – The original test data for generating predictions.
+    sample_submission.csv – The sample submission template.
+3.Run the Modeling.py script to train models and generate predictions.
+4.Check the final_predictions.csv file for predicted results.
+
+
+Notes
+The project is a work in progress, and I’ll push updates as I improve the accuracy.
+Suggestions and contributions are welcome! Feel free to fork the repo and create a pull request. 😊
+Disclaimer
+The datasets used in this project are from the Analytics Vidhya course and are intended for educational purposes only.
+
+
