@@ -11,7 +11,7 @@ warnings.filterwarnings("ignore")
 #read the files
 train = pd.read_csv("traindata.csv")
 test = pd.read_csv("testdata.csv")
-
+print(train.shape)
 # Make copies of the datasets
 train_original = train.copy()
 test_original = test.copy()
