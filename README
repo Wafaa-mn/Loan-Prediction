@@ -9,8 +9,6 @@ Current Progress:
     XGBoost
 2.Stratified K-Fold Cross-Validation was used for better performance evaluation.
 
-Next Steps I plan to work on is improving Model Accuracy.
-
 
 How to Run the Project:
 1.Clone this repository.
