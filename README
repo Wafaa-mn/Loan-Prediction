@@ -17,7 +17,7 @@ How to Run the Project:
     cleaned_test_data.csv – The cleaned test dataset.
     testdata.csv – The original test data for generating predictions.
     sample_submission.csv – The sample submission template.
-3.Run the Modeling.py script to train models and generate predictions.
+3.Run the Model.py script to train models and generate predictions.
 4.Check the final_predictions.csv file for predicted results.
 
 
