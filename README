@@ -21,9 +21,6 @@ How to Run the Project:
 4.Check the final_predictions.csv file for predicted results.
 
 
-Notes
-The project is a work in progress, and I’ll push updates as I improve the accuracy.
-Suggestions and contributions are welcome! Feel free to fork the repo and create a pull request. 😊
 Disclaimer
 The datasets used in this project are from the Analytics Vidhya course and are intended for educational purposes only.
 
